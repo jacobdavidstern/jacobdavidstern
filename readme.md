@@ -11,7 +11,7 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me
 
-My main goal is to complete the Codecademy Full-Stack Engineer Certificate by March 2025
+My main goal is to complete the Codecademy Full-Stack Engineer Certificate
 
 * codecademy: projects and more
 * tech-tips: coding tips and examples
