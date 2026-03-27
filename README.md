@@ -12,7 +12,7 @@ A **multi‑tenant MERN application** featuring authentication, role‑based acc
 ### Music Player (Challenge Project)
 
 A full‑stack music player that provides a UI for browsing and playing tracks from a Jamendo API playlist.  
-[Backend](https://fullstack-music-player-backend-miye.onrender.com) | [Live Demo](https://fullstack-music-player-seven.vercel.app) | [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/challenge-project-music-player) _Tip: Ensure the backend is active to proxy API requests._
+[Backend](https://fullstack-music-player-backend-miye.onrender.com) | [Live Demo](https://fullstack-music-player-seven.vercel.app) | [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/challenge-project-music-player) _Tip: Ensure the backend is active to proxy Jamendo API requests._
 
 ### Snake Game (Major Project 3)
 
@@ -22,7 +22,7 @@ A modern React take on the classic Snake arcade game. Move, eat, grow, survive c
 ### Stock Tracker (Major Project 2)
 
 Stock Tracker fetches real‑time market data, supports ticker search, portfolio tracking, and watchlists via the TwelveData API.  
-[Backend](https://fullstack-stocktracker-backend.onrender.com) | [Live Demo](https://fullstack-stocktracker.vercel.app) | [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-2-stock-tracker) _Tip: Ensure the backend is active to proxy API requests._
+[Backend](https://fullstack-stocktracker-backend.onrender.com) | [Live Demo](https://fullstack-stocktracker.vercel.app) | [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-2-stock-tracker) _Tip: Ensure the backend is active to proxy TwelveData API requests._
 
 ## Other Projects
 
