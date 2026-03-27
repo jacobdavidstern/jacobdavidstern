@@ -4,14 +4,14 @@ Software engineer focused on clear architecture, modular design, and maintainabl
 
 ## Featured Projects  
 
-### 🔥 TicketFire (Capstone, Major Project 5)  
+### TicketFire (Capstone, Major Project 5)  
 
 **Live Demo:** [https://fullstack-ticketfire.vercel.app](https://fullstack-ticketfire.vercel.app)  
 **Code:** [https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-5-ticketfire](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-5-ticketfire)  
 
 TicketFire is a **multi‑tenant MERN application** featuring authentication, role‑based access control, CRUD operations, modular backend architecture, and a clean React UI. Includes a demo mode for quick online review.  
 
-### 🎧 Music Player (Challenge Project)  
+### Music Player (Challenge Project)  
 
 > *Note: Backend, which proxies the Jamendo API key, must be running before the frontend.*  
 
@@ -21,14 +21,14 @@ TicketFire is a **multi‑tenant MERN application** featuring authentication, ro
 
 A full‑stack music player that provides a UI for browsing and playing tracks from a Jamendo playlist.  
 
-### 🐍 Snake Game (Major Project 3)  
+### Snake Game (Major Project 3)  
 
 **Live Demo:** [https://fullstack-snake-game.vercel.app](https://fullstack-snake-game.vercel.app)  
 **Code:** [https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-3-snake-game](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-3-snake-game)  
 
 A modern React take on the classic Snake arcade game. Move, eat, grow, survive collisions and the timer, and receive a random quote via API on Game Over.  
 
-### 📈 Stock Tracker (Major Project 2)  
+### Stock Tracker (Major Project 2)  
 
 > *Note: Backend, which proxies the TwelveData API key, must be running before the frontend.*  
 
