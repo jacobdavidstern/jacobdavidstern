@@ -49,14 +49,18 @@ Stock Tracker fetches real‑time market data, supports ticker search, portfolio
 
 ## Toolkit  
 
-**Languages & Frameworks:**  
-JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, PostgreSQL, HTML5, CSS3, Git  
+**Technologies**  
+
+- **Core Technologies:** JavaScript (ES6+)  
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MariaDB  
 
 **Professional Approach:**  
 
-- **Architecture:** Focusing on modular, maintainable patterns that align with team standards and project goals.  
-- **Reliability:** Streamlining developer velocity through reproducible workflows and practical automation.  
-- **Problem Solving:** Applying 10 years of systems experience to build resilient, easy-to-debug applications that adapt to any environment.  
+- **Architecture:** Focusing on modular, maintainable patterns that align with team standards and project goals  
+- **Reliability:** Streamlining developer velocity through reproducible workflows and practical automation  
+- **Problem Solving:** Applying 10 years of systems experience to build resilient, easy-to-debug applications that adapt to any environment  
 
 ---
 
