@@ -65,3 +65,4 @@ Stock Tracker fetches real‑time market data, supports ticker search, portfolio
 ---
 
 This profile README is a snapshot. For the full story, visit my [fullstack-portfolio](https://github.com/jacobdavidstern/fullstack-portfolio).  
+Copyright &copy; Jacob Stern, 2025-2026  
