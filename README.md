@@ -52,9 +52,9 @@ Stock Tracker fetches real‑time market data, supports ticker search, portfolio
 **Technologies**  
 
 - **Core Technologies:** JavaScript (ES6+)  
-- **Frontend:** React.js  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, MariaDB  
+- **Frontend:** React  
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** MongoDB, MariaDB  
 
 **Professional Approach:**  
 
