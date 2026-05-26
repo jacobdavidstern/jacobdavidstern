@@ -17,7 +17,7 @@ Software engineer focused on clear architecture, modular design, and maintainabl
 
 ### Music Player (Challenge Project) 
 
-A full‑stack music player that provides a UI for browsing and playing tracks from a Jamendo API playlist.  
+A full‑stack music player that provides a UI for browsing and playing tracks from Jamendo's playlist API.  
 
 [Backend](https://fullstack-music-player-backend-miye.onrender.com) ‧ [Live Demo](https://fullstack-music-player-seven.vercel.app) ‧ [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/challenge-project-music-player) ‧ _Note: Live Demo requires active Backend._  
 
