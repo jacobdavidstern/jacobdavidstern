@@ -1,12 +1,14 @@
 # Hi, I'm Jacob Stern  
 
-Software engineer focused on clear architecture, modular design, and maintainable code. I build full-stack applications with an emphasis on predictable APIs and clean front-end experiences, drawing on 10 years in technical support with a strong focus on debugging, systems thinking, and reliability.  
+Engineer with a systems mindset and a background in full‑stack development. I draw on a decade of technical support experience to prioritize reliability, understand system behavior, and make debugging straightforward. My earlier work includes MERN applications and modular API‑driven design, and my current focus is systems, operations, and infrastructure, reflected in ongoing work in [ops-lab](https://github.com/jacobdavidstern/ops-lab).  
 
 ## Featured Projects  
 
+These projects represent my earlier full‑stack work, focusing on architecture, predictable system behavior, and clean API design.  
+
 ### TicketFire (Capstone, Major Project 5)  
 
-**Multi‑Tenant Event Ticketing System (MERN)** designed for school districts and schools, enabling each client to create events, issue tickets, manage ticket sales, and track revenue in their box office. Features authentication, role‑based access control (RBAC), CRUD operations, modular backend architecture, and a clean React UI. Includes a demo mode for quick online review.  
+Multi‑tenant event ticketing system (MERN) designed for school districts and schools. Each client manages events, issues tickets, tracks sales, and reviews revenue. It includes authentication, RBAC, CRUD workflows, a modular backend, and a clean React UI, plus a demo mode for quick review.  
 
 **Future Enhancements:**  
 - Ticket purchasing workflow  
@@ -17,13 +19,13 @@ Software engineer focused on clear architecture, modular design, and maintainabl
 
 ### Music Player (Challenge Project) 
 
-A full‑stack music player that provides a UI for browsing and playing tracks from Jamendo's playlist API.  
+A full‑stack music player with a React UI and a backend proxy for Jamendo’s playlist API.  
 
 [Backend](https://fullstack-music-player-backend-miye.onrender.com) ‧ [Live Demo](https://fullstack-music-player-seven.vercel.app) ‧ [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/challenge-project-music-player) ‧ _Note: Live Demo requires active Backend._  
 
 ### Snake Game (Major Project 3)  
 
-A modern React take on the classic Snake arcade game. Move, eat, grow, survive collisions and the timer, and receive a random quote via API on Game Over.  
+A modern React version of the classic Snake game, with movement, growth, collision handling, a timer, and a random quote on Game Over.  
 
 [Live Demo](https://fullstack-snake-game.vercel.app) ‧ [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-3-snake-game)  
 
@@ -33,7 +35,29 @@ Stock Tracker fetches real‑time market data, supports ticker search, portfolio
 
 [Backend](https://fullstack-stocktracker-backend.onrender.com) ‧ [Live Demo](https://fullstack-stocktracker.vercel.app) ‧ [Source Code](https://github.com/jacobdavidstern/fullstack-portfolio/tree/master/major-project-2-stock-tracker) ‧ _Note: Live Demo requires active Backend._  
 
-## Other Projects  
+## Toolkit  
+
+### **Core Skills**
+- **Systems Thinking** — understanding behavior, dependencies, and failure modes  
+- **Troubleshooting** — 10 years of real‑world diagnostic experience  
+- **Automation & Scripting** — small tools, repeatable workflows, operational clarity  
+- **Full-Stack Background** — JavaScript (ES6+), React, Node/Express, MongoDB, REST APIs  
+
+### **Infrastructure & Operations**
+- **Linux** — CLI, processes, permissions, services  
+- **Networking** — subnets, routing, DNS, troubleshooting  
+- **macOS Systems** — APFS, encryption, backups  
+- **Backup Tooling** — restic, Backrest, Kopia  
+- **Version Control** — Git workflows, repo hygiene  
+
+### **Professional Approach**
+- **Reliability** — predictable behavior, clear failure modes  
+- **Architecture** — modular, maintainable patterns  
+- **Workflow Design** — reproducible processes, operational clarity 
+
+## Additional Projects  
+
+Backend‑only, frontend‑only, and starter‑template work that supports my full‑stack development and informs my approach to architecture and systems.  
 
 #### **Task Manager API** (Backend‑Only, Major Project 4)  
 
@@ -47,22 +71,8 @@ Stock Tracker fetches real‑time market data, supports ticker search, portfolio
 
 [Source Code](https://github.com/jacobdavidstern/buzzcut)  
 
-## Toolkit  
-
-**Technologies**  
-
-- **Core Technologies:** JavaScript (ES6+)  
-- **Frontend:** React  
-- **Backend:** Node.js, Express, REST APIs  
-- **Databases:** MongoDB, MariaDB  
-
-**Professional Approach:**  
-
-- **Architecture:** Focusing on modular, maintainable patterns that align with team standards and project goals  
-- **Reliability:** Streamlining developer velocity through reproducible workflows and practical automation  
-- **Problem Solving:** Applying 10 years of systems experience to build resilient, easy-to-debug applications that adapt to any environment  
+Build on!
 
 ---
 
-This profile README is a snapshot. For the full story, visit my [fullstack-portfolio](https://github.com/jacobdavidstern/fullstack-portfolio).  
 Copyright &copy; Jacob Stern, 2025-2026  
